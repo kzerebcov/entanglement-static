@@ -1,1 +1,3 @@
 GetDomPath.js: https://gist.github.com/remoharsono/a68f07e77dbfdd8255825ac230736bba
+
+GitHub: c1573f726c6e5bd9bfb1fc5093763a403fcef2a1
